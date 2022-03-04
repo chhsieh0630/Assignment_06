@@ -10,7 +10,7 @@
 strChoice = '' # User input
 lstTbl = []  # list of lists to hold data
 dicRow = {}  # list of data row
-strFileName = 'C:\_FDP\Assignment06\CDInventory.txt'  # data storage file
+strFileName = 'CDInventory.txt'  # data storage file
 objFile = None  # file object
 
 # -- PROCESSING -- #
